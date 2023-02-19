@@ -1,4 +1,4 @@
-﻿Console.Title = "Compose";
+﻿Console.Title = "Composite";
 
 var root = new Composite.Directory("root", 0);
 var textFIle = new Composite.File("textFile", 100);
